@@ -1,5 +1,3 @@
-# CST8913Final
-
 Azure Traffic Manager
 =====================
 (全球负载均衡 & 故障转移)
